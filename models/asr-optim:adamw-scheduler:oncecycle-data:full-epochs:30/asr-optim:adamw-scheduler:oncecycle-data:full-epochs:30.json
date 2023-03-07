@@ -1,0 +1,1 @@
+{"n_cnn_layers": 3, "n_rnn_layers": 3, "n_feats": 128, "stride": 2, "rnn_dim": 512, "n_class": 27, "dropout": 0.05, "learning_rate": 0.0005, "batch_size": 32, "epochs": 20, "scheduler_step_size": 3, "scheduler_gamma": 0.33}
